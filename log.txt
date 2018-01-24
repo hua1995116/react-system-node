@@ -1,0 +1,2 @@
+git clone -o 48328c79994df67a61c039feccb317dd242fe606 https://github.com/hua1995116/demo-publish-01.git
+cnpm install
