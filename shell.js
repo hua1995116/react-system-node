@@ -1,6 +1,6 @@
 const { exec } = require('child_process');
 
-const child = exec("publish.sh 213",  (error, stdout, stderr) => {
+const child = exec("./publish.sh",  (error, stdout, stderr) => {
   if (error) {
     throw error;
   }
